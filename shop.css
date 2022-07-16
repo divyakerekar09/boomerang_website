@@ -45,7 +45,6 @@
     padding: 0 0 0 15px;
   }
   
-  
   a {
     transition: all .3s ease-in-out;
   }
@@ -102,7 +101,7 @@
   } 
   
 .shop{
-    background-image: url(../dk.b/module-16.jpg);
+    background-image: url(module-16.jpg);
     background-repeat: no-repeat;
 height: 600px;
 background-position: center;
@@ -417,7 +416,7 @@ ul {
   .row-post-masonry{
     margin-top: 400px;
   }
-  .navbar-light .navbar-toggler{
+  .navbar-light .navbar-togsgler{
     border: none;
     color: transparent;
   }

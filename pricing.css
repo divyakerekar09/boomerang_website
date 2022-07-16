@@ -105,7 +105,7 @@ a {
 } 
 .bg{
 background-size: cover;
-background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.493)), url(../dk.b/image/pricingimg.jpeg);
+background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.493)), url(image/pricingimg.jpeg);
 background-position: center;
  
 height: 600px;
