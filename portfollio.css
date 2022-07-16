@@ -29,7 +29,7 @@
 .portfollioimg{
   background-image: url(image/module-25.jpg);
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.493)), url(../dk.b/image/module-25.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.658), rgba(0, 0, 0, 0.493)), url(image/module-25.jpg);
   /* color: #222;
   opacity: 0.6; */
   background-size: cover;
